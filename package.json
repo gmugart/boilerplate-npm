@@ -3,6 +3,7 @@
 	"author" : "Gorka",
 	"description": "A FCC test project",
 	"name": "fcc-learn-npm-package-json",
+	"keywords": [ "test", "fcc" ],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
